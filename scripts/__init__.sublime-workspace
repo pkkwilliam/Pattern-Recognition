@@ -1,0 +1,216 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"best_",
+				"best_distance"
+			],
+			[
+				"y",
+				"y_train"
+			],
+			[
+				"x",
+				"x_train"
+			],
+			[
+				"lab",
+				"lab_height"
+			],
+			[
+				"gr",
+				"grey_height"
+			],
+			[
+				"ran",
+				"randn"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"exit()",
+			"4+4",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/pkkwilliam/Documents/Playground/python-draw/test-draw.py",
+		"/Users/pkkwilliam/Desktop/LongFactorials.java",
+		"/Users/pkkwilliam/Desktop/Run.java",
+		"/Users/pkkwilliam/Documents/Playground/python-draw/GeneratingLargeFactorials.java",
+		"/Users/pkkwilliam/Desktop/test.java",
+		"/Users/pkkwilliam/Desktop/PegSolitarie.java",
+		"/Users/pkkwilliam/Documents/Playground/python-draw/test-draw",
+		"/Users/pkkwilliam/Documents/Playground/Udacity/Softmax.py",
+		"/Users/pkkwilliam/Documents/Playground/Udacity/dog.py",
+		"/Users/pkkwilliam/Documents/Playground/Udacity/Softmax",
+		"/Users/pkkwilliam/Documents/Playground/Machine-Learning/MySecond.py",
+		"/Users/pkkwilliam/Documents/Playground/Machine-Learning/MyFirst.py",
+		"/Users/pkkwilliam/Documents/Playground/TensorFlow/Traffic.py",
+		"/Users/pkkwilliam/Documents/Playground/Machine-Learning/knn.py",
+		"/Users/pkkwilliam/Documents/Playground/Machine-Learning/MyFirst",
+		"/Users/pkkwilliam/Documents/Playground/Machine-Learning/play.py",
+		"/Users/pkkwilliam/Documents/Playground/TensorFlow/test2.py",
+		"/Users/pkkwilliam/Documents/Playground/TensorFlow/test.py",
+		"/Users/pkkwilliam/Documents/Playground/Machine-Learning/hello-world.py",
+		"/Users/pkkwilliam/Documents/Playground/Machine-Learning/pipeline.py",
+		"/Users/pkkwilliam/Documents/Playground/Machine-Learning/dog.py",
+		"/Users/pkkwilliam/Documents/Playground/Machine-Learning/first-classifier.py",
+		"/Users/pkkwilliam/Desktop/hello-world.py",
+		"/Users/pkkwilliam/Desktop/newGitTest/test.py",
+		"/Users/pkkwilliam/Desktop/test.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "__init__.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
